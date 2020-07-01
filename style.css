@@ -133,6 +133,22 @@ color: rgba(255, 255, 255, 0.02);
     margin-left:10px;
     margin-top:10px;
 } 
+
+
+.box3 p {
+    position: absolute;
+    width: 159px;
+    height: 32px;
+    left: 720px;
+    top: 79px;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #04172A;
+}
+
 .box4{
     background: white;
     width: 285px;
@@ -142,6 +158,21 @@ color: rgba(255, 255, 255, 0.02);
     margin-left:10px;
     margin-top:10px;
 } 
+
+.box4 p {
+    position: absolute;
+    width: 159px;
+    height: 32px;
+    left: 1029px;
+    top: 79px;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #04172A;
+}
+
 .box5{
     background: white;
     width: 285px;
@@ -152,6 +183,21 @@ color: rgba(255, 255, 255, 0.02);
     margin-left:10px;
     
 } 
+
+.box5 p {
+    position: absolute;
+    width: 159px;
+    height: 32px;
+    left: 100px;
+    top: 320px;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #04172A;
+}
+
 .box6{
     background: white;
     width: 285px;
@@ -161,6 +207,20 @@ color: rgba(255, 255, 255, 0.02);
     border-radius: 5px;
     margin-left:10px;
 } 
+
+.box6 p {
+    position: absolute;
+    width: 159px;
+    height: 32px;
+    left: 410px;
+    top: 320px;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #04172A;
+}
 .box7{
     background: white;
     width: 285px;
@@ -170,6 +230,22 @@ color: rgba(255, 255, 255, 0.02);
     border-radius: 5px;
     margin-left:10px;
 } 
+
+.box7 p {
+    position: absolute;
+    width: 159px;
+    height: 32px;
+    left: 720px;
+    top: 320px;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #04172A;
+}
+
+
 .box8{
     background: white;
     width: 285px;
@@ -178,6 +254,20 @@ color: rgba(255, 255, 255, 0.02);
    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
     border-radius: 5px;
     margin-left:10px;
+}
+
+.box8 p {
+    position: absolute;
+    width: 159px;
+    height: 32px;
+    left: 1029px;
+    top: 320px;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #04172A;
 }
 
  #A-recta{
