@@ -1,0 +1,230 @@
+
+
+.header{
+    background:#225085;
+   height: 60px;
+   color: white;
+   display: flex;
+   justify-content: space-around;
+   margin-left: -100;
+   font-family: Manrope;
+   font-style: normal;
+  font-weight: 500;
+   font-size: 20px;
+  line-height: 26px;
+  
+}
+h4{
+    margin-top:15px;
+   padding-bottom: 2px; 
+}
+#menu{
+    margin-left: 50%;
+}
+.main{
+    position: absolute;
+    background: linear-gradient(95.51deg, #30639D -5.26%, #0F3E74 105.27%);
+    font-family: Manrope;
+    font-style: normal;
+    height: 275px;
+    left: 0px;
+    top: 10%;
+    margin-left:8.4px;
+    right:8.4px;
+    color:white;
+}
+.main p{
+    width: 378px;
+    height: 32px;
+    margin-left: 120px;
+    top: 120px;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+}
+     
+.waterMark{
+position: absolute;
+width: 700px;
+height: 275px;
+left: 480px;
+top: -180px;
+font-family: Manrope;
+font-style: normal;
+font-weight: bold;
+font-size: 220px;
+line-height: 275px;
+color: rgba(255, 255, 255, 0.02);
+}
+
+/*......................Information page ........*/
+.box{
+    position: absolute;
+    width: 92%;
+    height: 650px;
+    left: 50px;
+    top: 280px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    color:white;
+    display:grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-row-gap: 15px;
+    
+}
+
+
+.box1 {
+    background: rgb(244, 247, 250);
+    width: 285px;
+    height: 200px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    margin-left:10px;
+    margin-top:10px;
+    }
+.box2 {
+    background: rgb(169, 192, 218);
+    width: 285px;
+    height: 200px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    margin-left:10px;
+    margin-top:10px;
+}
+.box3{
+    background: rgb(43, 155, 68);
+    width: 285px;
+    height: 200px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    margin-left:10px;
+    margin-top:10px;
+} 
+.box4{
+    background: rgba(18, 18, 19, 0.466);
+    width: 285px;
+    height: 200px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    margin-left:10px;
+    margin-top:10px;
+} 
+.box5{
+    background: rgb(68, 11, 73);
+    width: 285px;
+    height: 200px;
+    margin-top:-200px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    margin-left:10px;
+    
+} 
+.box6{
+    background: rgb(126, 8, 24);
+    width: 285px;
+    height: 200px;
+    margin-top:-200px;
+   box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    margin-left:10px;
+} 
+.box7{
+    background: rgb(13, 37, 114);
+    width: 285px;
+    height: 200px;
+    margin-top:-200px;
+   box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    margin-left:10px;
+} 
+.box8{
+    background: rgb(126, 16, 71);
+    width: 285px;
+    height: 200px;
+    margin-top:-200px;
+   box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    margin-left:10px;
+}
+
+ #A-recta{
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 30px;
+    top: 80px;
+    background: #C4C4C4;
+    border-radius: 3px;
+}
+#B-recta{
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 345px;
+    top: 80px;
+    background: #C4C4C4;
+    border-radius: 3px;
+}
+#C-recta{
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 650px;
+    top: 80px;
+    background: #C4C4C4;
+    border-radius: 3px;
+}
+#D-recta{
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 960px;
+    top: 80px;
+    background: #C4C4C4;
+    border-radius: 3px;
+}
+#E-recta{
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 30px;
+    top: 310px;
+    background: #C4C4C4;
+    border-radius: 3px;
+}
+
+#F-recta{
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 340px;
+    top: 310px;
+    background: #C4C4C4;
+    border-radius: 3px;
+}
+
+#G-recta{
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 650px;
+    top: 310px;
+    background: #C4C4C4;
+    border-radius: 3px;
+}
+
+#H-recta{
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 960px;
+    top: 310px;
+    background: #C4C4C4;
+    border-radius: 3px;
+}
+/*......................................................
+End of Information page 
+.....................................................................*/
