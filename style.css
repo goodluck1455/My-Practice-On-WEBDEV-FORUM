@@ -85,6 +85,24 @@ color: rgba(255, 255, 255, 0.02);
     margin-left:10px;
     margin-top:10px;
     }
+
+    #A-view{
+    position: absolute;
+    width: 156px;
+    height: 35px;
+    left: 30px;
+    top: 155px;
+    background: #0075FF;
+    box-shadow: 0px 7px 15px rgba(0, 117, 255, 0.25);
+    border-radius: 3px;
+    color: white;
+    
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    }
      
     .box1 p {
         position: absolute;
@@ -124,6 +142,24 @@ color: rgba(255, 255, 255, 0.02);
     color: #04172A;
 }
 
+#B-view{
+    position: absolute;
+    width: 156px;
+    height: 35px;
+    left: 344px;
+    top: 155px;
+    background: #0075FF;
+    box-shadow: 0px 7px 15px rgba(0, 117, 255, 0.25);
+    border-radius: 3px;
+    color: white;
+    
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    }
+
 .box3{
     background: white;
     width: 285px;
@@ -149,6 +185,24 @@ color: rgba(255, 255, 255, 0.02);
     color: #04172A;
 }
 
+#C-view{
+    position: absolute;
+    width: 156px;
+    height: 35px;
+    left: 649px;
+    top: 155px;
+    background: #0075FF;
+    box-shadow: 0px 7px 15px rgba(0, 117, 255, 0.25);
+    border-radius: 3px;
+    color: white;
+    
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    }
+
 .box4{
     background: white;
     width: 285px;
@@ -172,6 +226,24 @@ color: rgba(255, 255, 255, 0.02);
     line-height: 16px;
     color: #04172A;
 }
+
+#D-view{
+    position: absolute;
+    width: 156px;
+    height: 35px;
+    left: 960px;
+    top: 155px;
+    background: #0075FF;
+    box-shadow: 0px 7px 15px rgba(0, 117, 255, 0.25);
+    border-radius: 3px;
+    color: white;
+    
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    }
 
 .box5{
     background: white;
@@ -198,6 +270,24 @@ color: rgba(255, 255, 255, 0.02);
     color: #04172A;
 }
 
+#E-view{
+    position: absolute;
+    width: 156px;
+    height: 35px;
+    left: 30px;
+    top: 390px;
+    background: #0075FF;
+    box-shadow: 0px 7px 15px rgba(0, 117, 255, 0.25);
+    border-radius: 3px;
+    color: white;
+    
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    }
+
 .box6{
     background: white;
     width: 285px;
@@ -221,6 +311,25 @@ color: rgba(255, 255, 255, 0.02);
     line-height: 16px;
     color: #04172A;
 }
+
+#F-view{
+    position: absolute;
+    width: 156px;
+    height: 35px;
+    left: 340px;
+    top: 390px;
+    background: #0075FF;
+    box-shadow: 0px 7px 15px rgba(0, 117, 255, 0.25);
+    border-radius: 3px;
+    color: white;
+    
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    }
+
 .box7{
     background: white;
     width: 285px;
@@ -244,6 +353,24 @@ color: rgba(255, 255, 255, 0.02);
     line-height: 16px;
     color: #04172A;
 }
+
+#G-view{
+    position: absolute;
+    width: 156px;
+    height: 35px;
+    left: 650px;
+    top: 390px;
+    background: #0075FF;
+    box-shadow: 0px 7px 15px rgba(0, 117, 255, 0.25);
+    border-radius: 3px;
+    color: white;
+    
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    }
 
 
 .box8{
@@ -269,6 +396,24 @@ color: rgba(255, 255, 255, 0.02);
     line-height: 16px;
     color: #04172A;
 }
+
+#H-view{
+    position: absolute;
+    width: 156px;
+    height: 35px;
+    left: 960px;
+    top: 390px;
+    background: #0075FF;
+    box-shadow: 0px 7px 15px rgba(0, 117, 255, 0.25);
+    border-radius: 3px;
+    color: white;
+    
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    }
 
  #A-recta{
     position: absolute;
