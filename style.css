@@ -77,7 +77,7 @@ color: rgba(255, 255, 255, 0.02);
 
 
 .box1 {
-    background: rgb(244, 247, 250);
+    background: white;
     width: 285px;
     height: 200px;
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
@@ -86,7 +86,7 @@ color: rgba(255, 255, 255, 0.02);
     margin-top:10px;
     }
 .box2 {
-    background: rgb(169, 192, 218);
+    background: white;
     width: 285px;
     height: 200px;
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
@@ -95,7 +95,7 @@ color: rgba(255, 255, 255, 0.02);
     margin-top:10px;
 }
 .box3{
-    background: rgb(43, 155, 68);
+    background: white;
     width: 285px;
     height: 200px;
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
@@ -104,7 +104,7 @@ color: rgba(255, 255, 255, 0.02);
     margin-top:10px;
 } 
 .box4{
-    background: rgba(18, 18, 19, 0.466);
+    background: white;
     width: 285px;
     height: 200px;
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
@@ -113,7 +113,7 @@ color: rgba(255, 255, 255, 0.02);
     margin-top:10px;
 } 
 .box5{
-    background: rgb(68, 11, 73);
+    background: white;
     width: 285px;
     height: 200px;
     margin-top:-200px;
@@ -123,7 +123,7 @@ color: rgba(255, 255, 255, 0.02);
     
 } 
 .box6{
-    background: rgb(126, 8, 24);
+    background: white;
     width: 285px;
     height: 200px;
     margin-top:-200px;
@@ -132,7 +132,7 @@ color: rgba(255, 255, 255, 0.02);
     margin-left:10px;
 } 
 .box7{
-    background: rgb(13, 37, 114);
+    background: white;
     width: 285px;
     height: 200px;
     margin-top:-200px;
@@ -141,7 +141,7 @@ color: rgba(255, 255, 255, 0.02);
     margin-left:10px;
 } 
 .box8{
-    background: rgb(126, 16, 71);
+    background: white;
     width: 285px;
     height: 200px;
     margin-top:-200px;
