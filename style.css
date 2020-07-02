@@ -35,7 +35,7 @@ h4{
     color:white;
 }
 .main p{
-    width: 378px;
+    width: 440px;
     height: 32px;
     margin-left: 120px;
     top: 120px;
@@ -44,6 +44,7 @@ h4{
     font-weight: 500;
     font-size: 24px;
     line-height: 32px;
+    
 }
      
 .waterMark{
@@ -94,16 +95,23 @@ color: rgba(255, 255, 255, 0.02);
     left: 30px;
     top: 155px;
     background: #0075FF;
-    box-shadow: 0px 7px 15px rgba(0, 117, 255, 0.25);
-    border-radius: 3px;
+    border-radius: 5px;
+    border: none;
     color: white;
-    
+    outline-color: none;
     font-family: Manrope;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 21px;
     cursor: pointer;
+    
+    }
+
+
+    #A-view:hover{
+        transform:scaleX(1.5);
+        transform-origin: left;
     }
      
     .box1 p {
@@ -151,8 +159,9 @@ color: rgba(255, 255, 255, 0.02);
     left: 344px;
     top: 155px;
     background: #0075FF;
-    box-shadow: 0px 7px 15px rgba(0, 117, 255, 0.25);
+   
     border-radius: 3px;
+    border: none;
     color: white;
     cursor: pointer;
     font-family: Manrope;
@@ -194,8 +203,9 @@ color: rgba(255, 255, 255, 0.02);
     left: 649px;
     top: 155px;
     background: #0075FF;
-    box-shadow: 0px 7px 15px rgba(0, 117, 255, 0.25);
+    
     border-radius: 3px;
+    border: none;
     color: white;
     cursor: pointer;
     font-family: Manrope;
@@ -236,7 +246,7 @@ color: rgba(255, 255, 255, 0.02);
     left: 960px;
     top: 155px;
     background: #0075FF;
-    box-shadow: 0px 7px 15px rgba(0, 117, 255, 0.25);
+    border: none;
     border-radius: 3px;
     color: white;
     cursor: pointer;
@@ -279,7 +289,7 @@ color: rgba(255, 255, 255, 0.02);
     left: 30px;
     top: 390px;
     background: #0075FF;
-    box-shadow: 0px 7px 15px rgba(0, 117, 255, 0.25);
+    border: none;
     border-radius: 3px;
     color: white;
     cursor: pointer;
@@ -321,7 +331,7 @@ color: rgba(255, 255, 255, 0.02);
     left: 340px;
     top: 390px;
     background: #0075FF;
-    box-shadow: 0px 7px 15px rgba(0, 117, 255, 0.25);
+    border: none;
     border-radius: 3px;
     color: white;
     cursor: pointer;
@@ -363,7 +373,7 @@ color: rgba(255, 255, 255, 0.02);
     left: 650px;
     top: 390px;
     background: #0075FF;
-    box-shadow: 0px 7px 15px rgba(0, 117, 255, 0.25);
+    border: none;
     border-radius: 3px;
     color: white;
     cursor: pointer;
@@ -406,7 +416,7 @@ color: rgba(255, 255, 255, 0.02);
     left: 960px;
     top: 390px;
     background: #0075FF;
-    box-shadow: 0px 7px 15px rgba(0, 117, 255, 0.25);
+    border: none;
     border-radius: 3px;
     color: white;
     cursor: pointer;
@@ -680,3 +690,22 @@ color: #ffffff;
 /*......................................................
 End of Information page 
 .....................................................................*/
+
+
+/*.......................................
+MEDIA QUERY BEGINS HERE
+......................................................*/
+@media only screen and (max-width: 1364px){
+ .main{
+     top: 5%;
+ } 
+}
+
+@media only screen and (max-width: 1024px){
+    .main{width: 165%;
+       top:6.5%;
+    }  
+    .header{
+        width: 168.5%;
+    } 
+}
