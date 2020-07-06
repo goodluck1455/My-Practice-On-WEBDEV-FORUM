@@ -61,7 +61,7 @@ line-height: 275px;
 color: rgba(255, 255, 255, 0.02);
 }
 
-/*......................Information page ........*/
+/*...............................Information page ..........................*/
 .box{
     position: absolute;
     width: 92%;
@@ -79,7 +79,7 @@ color: rgba(255, 255, 255, 0.02);
 
 
 .box1 {
-    background: white;
+    background:rgb(246, 248, 246);
     width: 285px;
     height: 200px;
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
@@ -129,7 +129,7 @@ color: rgba(255, 255, 255, 0.02);
     }
 
 .box2 {
-    background: white;
+    background: rgb(240, 241, 243);
     width: 285px;
     height: 200px;
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
@@ -172,7 +172,7 @@ color: rgba(255, 255, 255, 0.02);
     }
 
 .box3{
-    background: white;
+    background: rgb(248, 246, 248);
     width: 285px;
     height: 200px;
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
@@ -216,7 +216,7 @@ color: rgba(255, 255, 255, 0.02);
     }
 
 .box4{
-    background: white;
+    background: rgb(248, 246, 248);
     width: 285px;
     height: 200px;
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
@@ -258,7 +258,7 @@ color: rgba(255, 255, 255, 0.02);
     }
 
 .box5{
-    background: white;
+    background:  rgb(248, 246, 248);
     width: 285px;
     height: 200px;
     margin-top:-200px;
@@ -301,7 +301,7 @@ color: rgba(255, 255, 255, 0.02);
     }
 
 .box6{
-    background: white;
+    background: rgb(248, 246, 248);
     width: 285px;
     height: 200px;
     margin-top:-200px;
@@ -343,7 +343,7 @@ color: rgba(255, 255, 255, 0.02);
     }
 
 .box7{
-    background: white;
+    background: rgb(248, 246, 248);
     width: 285px;
     height: 200px;
     margin-top:-200px;
@@ -386,7 +386,7 @@ color: rgba(255, 255, 255, 0.02);
 
 
 .box8{
-    background: white;
+    background:  rgb(248, 246, 248);
     width: 285px;
     height: 200px;
     margin-top:-200px;
@@ -695,17 +695,112 @@ End of Information page
 /*.......................................
 MEDIA QUERY BEGINS HERE
 ......................................................*/
-@media only screen and (max-width: 1364px){
- .main{
-     top: 5%;
- } 
+@media only screen and (max-width: 768px){
+
+    .main{top: 6%;}
+    .main p{ margin-left: 30px;}
+
+ .box{
+    top: 242px;
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-row-gap: 15px;}
+
+        .box3{margin-bottom:13rem;} 
+
+        .box4{margin-bottom:13rem;} 
+
+        .box5{margin-bottom:13rem;} 
+
+        .box3{margin-bottom:13rem;} 
+
+  #B-info, #B-recta, #B-view {
+    left: 24rem;
+  }
+  .box2 p{
+      left: 28.6rem;
+  }
+
+
+  #C-info{top: 16rem; left: 2rem;} #C-recta{top: 19rem; left: 2rem;} #C-view{top: 24rem; left: 2rem;} .box3 p{top: 19rem; left: 6.5rem;}
+  #D-info{top: 16rem; left: 24rem;} #D-recta{top: 19rem; left: 24rem;} #D-view{top: 24rem; left: 24rem;} .box4 p{top: 19rem; left: 28.5rem;}
+  #E-info{top: 30rem; left: 2rem;} #E-recta{top: 33rem; left: 2rem;} #E-view{top: 38rem; left: 2rem;} .box5 p{top: 33rem; left: 6.5rem; color: white;}
+  #F-info{top: 30rem; left: 24rem;} #F-recta{top: 33rem; left: 24rem;} #F-view{top: 38rem; left: 24rem;} .box6 p{top: 33rem; left: 28.5rem;}
+ #G-info{top: 43.5rem; left: 2rem;} #G-recta{top: 46rem; left: 2rem;} #G-view{top: 51rem; left: 2rem;} .box7 p{top: 46.5rem; left: 6.5rem;}
+   #H-info{top: 43.5rem; left: 24rem;} #H-recta{top: 46rem; left: 24rem;} #H-view{top: 51rem; left: 24rem;} .box8 p{top: 46.5rem; left: 28.5rem;}
+
+
+
+
+   .waterMark{
+    font-size: 170px;
+    left: 130px;
+    top: -140px;
+    width: 500px;
+    }
+
+
 }
 
-@media only screen and (max-width: 1024px){
-    .main{width: 165%;
-       top:6.5%;
-    }  
-    .header{
-        width: 168.5%;
-    } 
+
+
+@media only screen and (max-width: 360px){
+.main{top: 10.3%;width: 205.4%;}
+
+.header{width: 215%;}
+
+
+#B-info, #B-recta, #B-view {
+    left: 21rem;
+  }
+  
+  .box2 p{left: 25.5rem;}
+
+#D-info{top: 16rem; left: 21rem;} #D-recta{top: 19rem; left: 21rem;} #D-view{top: 24rem; left: 21rem;} .box4 p{top: 19rem; left: 25.5rem;}
+#H-info{top: 43.5rem; left: 21rem;} #H-recta{top: 46rem; left: 21rem;} #H-view{top: 51rem; left: 21rem;} .box8 p{top: 46.5rem; left: 25.5rem;}
+#F-info{top: 30rem; left: 21rem;} #F-recta{top: 33rem; left: 21rem;} #F-view{top: 38rem; left: 21rem;} .box6 p{top: 33rem; left: 25.5rem;}
+ 
+.box{left:68px;}
+
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.....
+
+.header{
+    background:#225085;
+   height: 60px;
+   color: white;
+   display: flex;
+   justify-content: space-around;
+   margin-left: -100;
+   font-family: Manrope;
+   font-style: normal;
+  font-weight: 500;
+   font-size: 20px;
+  line-height: 26px;
+ background-size: cover;
+  
+
+
+
+
+
+
+*/
